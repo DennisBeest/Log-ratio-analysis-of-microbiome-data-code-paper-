@@ -1,0 +1,67 @@
+Method,sd,Filter,type1Base,power,type1Cor
+Log-ratio RDA,0.25,,0.05,0.8,0.09
+Log proportions RDA,0.25,,0.05,0.69,0.05
+Weighted log-ratio RDA,0.25,,0.04,0.57,0.05
+CCA - counts,0.25,,0.04,0.35,0.05
+CCA - sqrt,0.25,,0.04,0.78,0.03
+CCA - log,0.25,,0.04,0.73,0.05
+Anosim,0.25,,0.05,0.29,0.05
+Permanova,0.25,,0.05,0.3,0.05
+Log-ratio RDA GBM/counts,0.25,,0.04,0.78,0.05
+Log-ratio RDA GBM/prop,0.25,,0.05,0.79,0.04
+RCM,0.25,,0.004,0.34,0.008
+Log-ratio RDA,0.5,,0.05,0.68,0.67
+Log proportions RDA,0.5,,0.05,0.68,0.04
+Weighted log-ratio RDA,0.5,,0.05,0.53,0.13
+CCA - counts,0.5,,0.06,0.3,0.03
+CCA - sqrt,0.5,,0.04,0.75,0.06
+CCA - log,0.5,,0.04,0.67,0.35
+Anosim,0.5,,0.05,0.29,0.05
+Permanova,0.5,,0.05,0.3,0.05
+Log-ratio RDA GBM/counts,0.5,,0.05,0.74,0.16
+Log-ratio RDA GBM/prop,0.5,,0.05,0.76,0.05
+RCM,0.5,,0.008,0.39,0
+Log-ratio RDA,1,,0.05,0.17,0.99
+Log proportions RDA,1,,0.05,0.64,0.14
+Weighted log-ratio RDA,1,,0.05,0.46,0.74
+CCA - counts,1,,0.05,0.19,0.01
+CCA - sqrt,1,,0.04,0.69,0.2
+CCA - log,1,,0.04,0.31,0.93
+Anosim,1,,0.05,0.3,0.13
+Permanova,1,,0.05,0.29,0.11
+Log-ratio RDA GBM/counts,1,,0.05,0.61,0.91
+Log-ratio RDA GBM/prop,1,,0.05,0.66,0.24
+RCM,1,,0.009,0.28,
+Log-ratio RDA,0.25,Filt,0.05,0.4,0.05
+Log proportions RDA,0.25,Filt,0.05,0.41,0.05
+Weighted log-ratio RDA,0.25,Filt,0.04,0.36,0.05
+CCA - counts,0.25,Filt,0.04,0.27,0.05
+CCA - sqrt,0.25,Filt,0.04,0.41,0.04
+CCA - log,0.25,Filt,0.04,0.37,0.04
+Anosim,0.25,Filt,0.05,0.24,0.05
+Permanova,0.25,Filt,0.05,0.24,0.05
+Log-ratio RDA GBM/counts,0.25,Filt,0.05,0.39,0.05
+Log-ratio RDA GBM/prop,0.25,Filt,0.05,0.38,0.05
+RCM,0.25,Filt,0.02,0.24,0.01
+Log-ratio RDA,0.5,Filt,0.05,0.42,0.05
+Log proportions RDA,0.5,Filt,0.05,0.41,0.04
+Weighted log-ratio RDA,0.5,Filt,0.06,0.36,0.04
+CCA - counts,0.5,Filt,0.06,0.24,0.03
+CCA - sqrt,0.5,Filt,0.05,0.41,0.03
+CCA - log,0.5,Filt,0.03,0.37,0.09
+Anosim,0.5,Filt,0.05,0.24,0.04
+Permanova,0.5,Filt,0.05,0.24,0.04
+Log-ratio RDA GBM/counts,0.5,Filt,0.04,0.37,0.04
+Log-ratio RDA GBM/prop,0.5,Filt,0.05,0.38,0.05
+RCM,0.5,Filt,0.01,0.19,0.01
+Log-ratio RDA,1,Filt,0.05,0.47,0.09
+Log proportions RDA,1,Filt,0.06,0.47,0.09
+Weighted log-ratio RDA,1,Filt,0.05,0.38,0.02
+CCA - counts,1,Filt,0.05,0.17,0.01
+CCA - sqrt,1,Filt,0.04,0.4,0.01
+CCA - log,1,Filt,0.04,0.38,0.77
+Anosim,1,Filt,0.05,0.24,0.06
+Permanova,1,Filt,0.05,0.26,0.05
+Log-ratio RDA GBM/counts,1,Filt,0.05,0.41,0.08
+Log-ratio RDA GBM/prop,1,Filt,0.05,0.4,0.08
+RCM,1,Filt,0.002,0.1,0.01
