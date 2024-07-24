@@ -5,6 +5,6 @@ This is code belonging to the paper: https://onlinelibrary.wiley.com/doi/full/10
 
 The paper is about applying LRA to microbiome data; and how this may not work very well under certain conditions.
 
-Note that LRA stands for log-ratio analysis. See for example: https://rdrr.io/cran/easyCODA/man/LRA.html
+For more info LRA (log-ratio analysis) see for example: https://rdrr.io/cran/easyCODA/man/LRA.html
 
 
